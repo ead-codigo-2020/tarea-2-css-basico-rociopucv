@@ -1,0 +1,65 @@
+
+body{
+background-color:#EEEDED;
+Border-radius: var(--primary-color);
+font-family: apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+               "Helvetica Neue", sans-serif;
+}
+
+h2{
+    text-align: left;
+    font-size: 17px;
+    box-shadow: 3px 3px 3px #000; 
+    background-size: 40px;
+    background-color: #E2E2E2;
+    padding-right:400px; 
+}
+
+.img{
+widht:
+height:
+}
+.data{
+    text-align: left;
+    font-size: 15px;
+    background-color: white;
+    padding-right: 50px;
+}
+.contact{
+    text-align: left;
+    font-size: 15px;
+    background-color:white;
+    padding-right: 50px;    
+}
+.experience{
+    text-align: left;
+    font-size: 15px;
+    background-color: white;
+    padding-right: 50px;
+}
+.education{
+    text-align: left;
+    font-size: 15px;
+    background-color: white;
+    padding-right: 50px;
+}
+.hability{
+    text-align: left;
+    font-size: 15px;
+    background-color: white;
+    padding-right: 50px;
+}
+.recomen{
+    text-align: left;
+    font-size: 15px;
+    background-color: white;
+    padding-right: 50px;
+}
+.hour{
+    text-align: left;
+    font-size: 15px;
+    background-color:white;
+    padding-right: 50px;
+}
+   
