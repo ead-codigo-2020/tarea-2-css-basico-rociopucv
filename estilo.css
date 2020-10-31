@@ -3,17 +3,28 @@
     Border-radius: var(--primary-color);
     font-family:'Roboto', sans-serif;
     color:#ffffff;
-    }
+}
     
  h2{
-        text-align: left;
-        font-size: 15px;
-        background-size: 40px;
-        background-color: #b5d8dd;
-        padding-right:400px; 
-        color: #ffffff;
-        padding: 10px;
-    }
+    text-align: left;
+    font-size: 15px;
+    background-size: 40px;
+    background-color: #b5d8dd;
+    padding-right:400px; 
+    color: #ffffff;
+    padding: 12px;
+}
+
+hr {
+    border-color:#d5f9ff;
+    padding-left:3px;
+    width: 1240px;
+    margin: 0px;
+    padding-left:10px;    
+    padding-right: 10px;
+    color: #b5d8dd;
+
+}
 
 
 .titulo{
@@ -21,8 +32,7 @@
     font-size:30px;
     margin: 37px;
     padding-bottom: 0px;
-
-
+   
 }
      
 .descripción{
@@ -30,80 +40,81 @@
     font-size: 16px;
     margin: 0px;
     padding-bottom: 70px;
-
+    
 }
 
+.inf{
+    text-align: left;
+    font-size: 15px;
+    background-color:#E0E0E2;
+    padding-right:0px;
+    margin: 30px;
+    color: #7389AE;
+    padding-bottom: 30px;
+}
 
+.contactos{
+    text-align: left;
+    font-size: 15px;
+    background-color:#E0E0E2;
+    padding-right: 0px;    
+    margin: 30px;
+    color: #7389AE;
+    padding-bottom: 30px;
+}
 
-    .inf{
-        text-align: left;
-        font-size: 15px;
-        background-color:#E0E0E2;
-        padding-right: 0px;
-        margin: 30px;
-        color: #7389AE;
-        padding-bottom: 30px;
-    }
-
-    .contactos{
-        text-align: left;
-        font-size: 15px;
-        background-color:#E0E0E2;
-        padding-right: 0px;    
-        margin: 30px;
-        color: #7389AE;
-        padding-bottom: 30px;
-    }
-
-    .experiencialaboral{
-        text-align: left;
-        font-size: 15px;
-        background-color:#E0E0E2;
-        padding-right: 0px;
-        margin: 30px;
-        color: #7389AE;
-        padding-bottom: 30px;
+.experiencialaboral{
+    text-align: left;
+    font-size: 15px;
+    background-color:#E0E0E2;
+    padding-right: 0px;
+    margin: 30px;
+    color: #7389AE;
+    padding-bottom: 30px;
+}
     
-    }
-    .educación{
-        text-align: left;
-        font-size: 15px;
-        background-color:#E0E0E2;
-        padding-right: 0px;
-        margin: 30px;
-        color: #7389AE;
-        padding-bottom: 30px;
-    }
-    .habilidades{
-        text-align: left;
-        font-size: 15px;
-        background-color:#E0E0E2;
-        padding-right: 0px;
-        margin: 30px;
-        color: #7389AE;
-        padding-bottom: 30px;
-    }
-    .recomendaciónes{
-        text-align: left;
-        font-size: 15px;
-        background-color:#E0E0E2;
-        padding-right:0px;
-        margin: 30px;
-        color: #7389AE;
-        padding-bottom: 30px;
-    }
-    .horarios{
-        text-align: left;
-        font-size: 15px;
-        background-color:#E0E0E2;
-        padding-right: 0px;
-        padding-bottom: 30px;
-        margin: 30px;
-        color: #7389AE;
+.educación{
+    text-align: left;
+    font-size: 15px;
+    background-color:#E0E0E2;
+    padding-right: 0px;
+    margin: 30px;
+    color: #7389AE;
+    padding-bottom: 30px;
+}
 
-    }
-    .fecha{
-        text-align: left;
-        font-size: 12px;
-        margin: 30px;
+.habilidades{
+    text-align: left;
+    font-size: 15px;
+    background-color:#E0E0E2;
+    padding-right: 0px;
+    margin: 30px;
+    color: #7389AE;
+    padding-bottom: 30px;
+}
+
+.recomendaciónes{
+    text-align: left;
+    font-size: 15px;
+    background-color:#E0E0E2;
+    padding-right:0px;
+    margin: 30px;
+    color: #7389AE;
+    padding-bottom: 30px;
+}
+
+.horarios{
+    text-align: left;
+    font-size: 15px;
+    background-color:#E0E0E2;
+    padding-right: 0px;
+    padding-bottom: 30px;
+    margin: 30px;
+    color: #7389AE;
+}
+
+.fecha{
+    text-align: left;
+    font-size: 12px;
+    margin: 30px;
     }
