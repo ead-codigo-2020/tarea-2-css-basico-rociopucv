@@ -5,7 +5,7 @@
     color:#ffffff;
     }
     
-    h2{
+ h2{
         text-align: left;
         font-size: 15px;
         background-size: 40px;
@@ -16,7 +16,7 @@
     }
 
 
-.title{
+.titulo{
     text-align: left;
     font-size:30px;
     margin: 37px;
@@ -25,7 +25,7 @@
 
 }
      
-.description{
+.descripción{
     text-align: left;
     font-size: 16px;
     margin: 0px;
@@ -35,7 +35,7 @@
 
 
 
-    .data{
+    .inf{
         text-align: left;
         font-size: 15px;
         background-color:#E0E0E2;
@@ -45,7 +45,7 @@
         padding-bottom: 30px;
     }
 
-    .contact{
+    .contactos{
         text-align: left;
         font-size: 15px;
         background-color:#E0E0E2;
@@ -55,7 +55,7 @@
         padding-bottom: 30px;
     }
 
-    .experience{
+    .experiencialaboral{
         text-align: left;
         font-size: 15px;
         background-color:#E0E0E2;
@@ -65,7 +65,7 @@
         padding-bottom: 30px;
     
     }
-    .education{
+    .educación{
         text-align: left;
         font-size: 15px;
         background-color:#E0E0E2;
@@ -74,7 +74,7 @@
         color: #7389AE;
         padding-bottom: 30px;
     }
-    .hability{
+    .habilidades{
         text-align: left;
         font-size: 15px;
         background-color:#E0E0E2;
@@ -83,7 +83,7 @@
         color: #7389AE;
         padding-bottom: 30px;
     }
-    .recomen{
+    .recomendaciónes{
         text-align: left;
         font-size: 15px;
         background-color:#E0E0E2;
@@ -92,7 +92,7 @@
         color: #7389AE;
         padding-bottom: 30px;
     }
-    .hour{
+    .horarios{
         text-align: left;
         font-size: 15px;
         background-color:#E0E0E2;
